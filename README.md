@@ -6,6 +6,8 @@ The software was written using Arduino, with the help of some esp32 native libra
 
 ## Hardware
 
+__Warning__ The Lunar Lander badge uses a LIPO battery. Please be careful not to puncture or incinerate it, due to the risk of fire / explosions.  Rockets are launched using explosives, but it is better for you and your badge if you avoid it.
+
 The hardware schematic is [here](/schematic.pdf "here").
 
 It is similar to an Adafruit Feather, used in early prototyping. The additions are a TFT LCD screen, five buttons, seven LEDs and the SAO port for expansion. The esp32 communicates with the screen using SPI. The board incorporates a charging circuit for a LIPO battery (provided with the badge).

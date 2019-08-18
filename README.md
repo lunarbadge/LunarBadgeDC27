@@ -51,11 +51,11 @@ Don’t press too hard because you could damage the screen.
 
 There will be space between the battery and the badge; this is by design.
 
-![BadgeSandwich](!/images/sandwich.png "space between badge and battery")
+![BadgeSandwich](/images/sandwich.png "space between badge and battery")
 
 If the battery is low there is a warning:
 
-![BatteryWarning](!/images/batteryWarning.png "Battery Warning")
+![BatteryWarning](/images/batteryWarning.png "Battery Warning")
 
 #### Screen Cover
 The screen is shipped with a thin film covering it.  You’ll find the display looks better without it.
